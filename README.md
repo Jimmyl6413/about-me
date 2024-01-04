@@ -4,19 +4,17 @@
 
 ---
 
-I am Jimmy, a student at High School of Telecommunication Arts and Technology.
-I was was born on January 16, 2008 in brroklyn, NY and grew up there ever since.
-I am now enrolled in a software engineering program at my school.
-### **Schedule**
-1. Algebra 2.
+I am Jimmy, a student at the High School of Telecommunication Arts and Technology. I was born on January 16, 2008 in Brooklyn, NY and grew up there ever since. I am now enrolled in a Software Engineering Program at my school.
 
-2. Ap World History
-3. Big Honors History Project
+### **Schedule**
+1. Algebra 2
+2. AP World History
+3. Big History Project Honors
 4. Lunch
-5. SEP(Software Engineering Program)
+5. SEP10 (Software Engineering Program)
 6. Chemistry
 7. English
-8. SPanish 2
+8. Spanish 2
 
 
 
